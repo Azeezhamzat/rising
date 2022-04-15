@@ -71,7 +71,8 @@ background-image: linear-gradient(to bottom, #1ACEA9 0%, #149E82 100%);
 /* Header */
 #head {
 	background: #181015 url( ../images/bg_header.gif) no-repeat;
-	background-size: cover;
+	background-size:cover;
+	background-position-x: 40%;
 	min-height: 520px;
 	text-align: center;
 	padding-top: 240px;
